@@ -8,5 +8,5 @@ Credits:
 The ImGUI-Base is from:
 https://github.com/cazzwastaken/borderless-imgui-window
 
-![This is an image](https://gyazo.com/5fb3c48a40b1f7bc43dae2cd7e4d084b)
-![This is an image](https://gyazo.com/694e1953c23209cbe43af83a62d27b5a)
+https://gyazo.com/5fb3c48a40b1f7bc43dae2cd7e4d084b
+https://gyazo.com/694e1953c23209cbe43af83a62d27b5a
